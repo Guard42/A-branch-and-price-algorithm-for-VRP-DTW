@@ -1,8 +1,7 @@
-# A-Branch-and-Price-Algorithm-for-VRPD
+# A-Branch-and-Price-Algorithm-for-VRPDTW
 ⚠️⚠️⚠️WORK IN PROGRESS⚠️⚠️⚠️
 
-挖坑，对王征老师[Wang, Z., & Sheu, J.-B. (2019). Vehicle routing problem with drones. Transportation Research Part B: Methodological, 122, 350–364. https://doi.org/10.1016/j.trb.2019.03.005
-](https://www.sciencedirect.com/science/article/pii/S0191261518307884)论文中算法的复现。
+挖坑，对Jeanette技术报告[Schmidt, J. (2024). The vehicle routing problem with drones and time windows: Minimizing route duration (Technical Report LM-2024–02). Chair of Logistics Management, Gutenberg School of Management and Economics, Johannes Gutenberg University Mainz.](https://logistik.bwl.uni-mainz.de/files/2024/05/LM-2024-02.pdf)中算法的复现。
 
 This Repo implements a branch-and-price algorithm for Vehicle Routing Problems with Drones using Python. (Gurobi license needed)
 
